@@ -18,6 +18,7 @@
     "org.apache.cordova.file"
   ],
   "cordovaPlatforms": [
-    "ios"
+    "ios",
+    "android"
   ]
 }
